@@ -12,20 +12,16 @@ i was born in Kaliningrad
 
 ### Development:
 <p align="left">
-  <img src="https://shields.io" alt="csharp" />
-  <img src="https://shields.io" alt="dotnet" />
-  <img src="https://shields.io" alt="python" />
-  <img src="https://shields.io" alt="rust" />
-  <img src="https://shields.io" alt="html5" />
-  <img src="https://shields.io" alt="css3" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" alt="Development Stack" />
+  </a>
 </p>
 
 ### Design & Graphics:
 <p align="left">
-  <img src="https://shields.io" alt="photoshop" />
-  <img src="https://shields.io" alt="illustrator" />
-  <img src="https://shields.io" alt="figma" />
-  <img src="https://shields.io" alt="blender" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" alt="Design Stack" />
+  </a>
 </p>
 
 ## 📊 GitHub Stats:
