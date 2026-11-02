@@ -12,24 +12,24 @@ i was born in Kaliningrad
 
 ### Development:
 <p align="left">
-  <img src="https://jsdelivr.net" alt="csharp" width="40" height="40"/>
-  <img src="https://jsdelivr.net" alt="dotnet" width="40" height="40"/>
-  <img src="https://jsdelivr.net" alt="python" width="40" height="40"/>
-  <img src="https://jsdelivr.net" alt="rust" width="40" height="40"/>
-  <img src="https://jsdelivr.net" alt="html5" width="40" height="40"/>
-  <img src="https://jsdelivr.net" alt="css3" width="40" height="40"/>
+  <img src="https://shields.io" alt="csharp" />
+  <img src="https://shields.io" alt="dotnet" />
+  <img src="https://shields.io" alt="python" />
+  <img src="https://shields.io" alt="rust" />
+  <img src="https://shields.io" alt="html5" />
+  <img src="https://shields.io" alt="css3" />
 </p>
 
 ### Design & Graphics:
 <p align="left">
-  <img src="https://jsdelivr.net" alt="photoshop" width="40" height="40"/>
-  <img src="https://jsdelivr.net" alt="illustrator" width="40" height="40"/>
-  <img src="https://jsdelivr.net" alt="figma" width="40" height="40"/>
-  <img src="https://jsdelivr.net" alt="blender" width="40" height="40"/>
+  <img src="https://shields.io" alt="photoshop" />
+  <img src="https://shields.io" alt="illustrator" />
+  <img src="https://shields.io" alt="figma" />
+  <img src="https://shields.io" alt="blender" />
 </p>
 
 ## 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://vercel.app" alt="Andrew's GitHub stats" />
+  <img src="https://vercel.app" alt="Andrew stats" />
 </p>
