@@ -20,6 +20,7 @@ i was born in Kaliningrad
   <img src="css.svg" alt="css3" width="40" height="40"/>
   <img src="react.svg" alt="react" width="40" height="40"/>
   <img src="sass.svg" alt="sass" width="40" height="40"/>
+  <img src="cloudflare.svg" alt="cloudflare" width="40" height="40"/>
 </p>
 
 ### Design & Graphics:
