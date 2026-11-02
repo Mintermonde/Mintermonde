@@ -12,20 +12,20 @@ i was born in Kaliningrad
 
 ### Development:
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="Development Stack" />
-  </a>
+  <img src="csharp.svg" alt="csharp" width="40" height="40"/>
+  <img src="dotnet.svg" alt="dotnet" width="40" height="40"/>
+  <img src="python.svg" alt="python" width="40" height="40"/>
+  <img src="rust.svg" alt="rust" width="40" height="40"/>
+  <img src="html.svg" alt="html5" width="40" height="40"/>
+  <img src="css.svg" alt="css3" width="40" height="40"/>
+  <img src="react.svg" alt="react" width="40" height="40"/>
+  <img src="sass.svg" alt="sass" width="40" height="40"/>
 </p>
 
 ### Design & Graphics:
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" alt="Design Stack" />
-  </a>
-</p>
-
-## 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://vercel.app" alt="Andrew stats" />
+  <img src="photoshop.svg" alt="photoshop" width="40" height="40"/>
+  <img src="illustrator.svg" alt="illustrator" width="40" height="40"/>
+  <img src="figma.svg" alt="figma" width="40" height="40"/>
+  <img src="blender.svg" alt="blender" width="40" height="40"/>
 </p>
