@@ -39,7 +39,7 @@ i was born in Kaliningrad
 </p>
 
 <p align="center">
-  <img src="https://vercel.app" alt="Andrew's GitHub stats">
+  <img src="https://githubusercontent.com" alt="Andrew's GitHub stats">
 </p>
 
 <p align="center">
