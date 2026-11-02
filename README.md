@@ -1,6 +1,7 @@
 # Hi, I'm Andrew
 
 Experienced C# and Web Developer, beginner Rust developer
+
 My goal is to make something fun and goofy
 i was born in Kaliningrad
 
