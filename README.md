@@ -1,7 +1,7 @@
-# Hi What's Up I'm Andrew 👋
+# Hi, I'm Andrew
 
-Experienced C#, Rust and Web Developer
-My goal is to do something that will benefit society!
+Experienced C# and Web Developer, beginner Rust developer
+My goal is to make something fun and goofy
 i was born in Kaliningrad
 
 ## Creative Background:
