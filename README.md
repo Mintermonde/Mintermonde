@@ -37,3 +37,17 @@ i was born in Kaliningrad
   <img src="vscode.svg" alt="vscode" width="40" height="40"/>
   <img src="clion.svg" alt="clion" width="40" height="40"/>
 </p>
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://vercel.app" alt="Andrew's GitHub stats">
+</p>
+
+## 🐍 Contribution Snake:
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" />
+    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" />
+    <img alt="github-snake" src="https://githubusercontent.com" />
+  </picture>
+</p>
