@@ -4,11 +4,11 @@ Experienced C#, Rust and Web Developer
 My goal is to do something that will benefit society!
 i was born in Kaliningrad
 
-## 🎨 Creative Background:
+## Creative Background:
 - **Design:** Long-term professional experience in the design industry.
 - **Photography:** Extensive background in professional photography and visual arts.
 
-## 💻 Tech Stack:
+## Tech Stack:
 
 ### Development:
 <p align="left">
@@ -38,12 +38,10 @@ i was born in Kaliningrad
   <img src="clion.svg" alt="clion" width="40" height="40"/>
 </p>
 
-## 📊 GitHub Stats:
 <p align="center">
   <img src="https://vercel.app" alt="Andrew's GitHub stats">
 </p>
 
-## 🐍 Contribution Snake:
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" />
