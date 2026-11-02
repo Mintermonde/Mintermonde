@@ -47,6 +47,9 @@ i was born in Kaliningrad
 | **Repositories** | Public projects and open-source contributions |
 | **Fun Fact** | Combining engineering precision with a strong eye for design |
 
+
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Flowseal&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+
 </div>
 
 <p align="center">
