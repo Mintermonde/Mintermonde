@@ -40,15 +40,7 @@ i was born in Kaliningrad
 
 <div align="center">
 
-| Metric | Status / Activity |
-| :--- | :--- |
-| **Core Ecosystem** | C#, .NET, Rust development |
-| **Current Focus** | Building scalable applications & tools |
-| **Repositories** | Public projects and open-source contributions |
-| **Fun Fact** | Combining engineering precision with a strong eye for design |
-
-
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Mintermonde&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Mintermonde&theme=dark&show_icons=true&hide_border=true&count_private=true&locale=ru">
 
 </div>
 
