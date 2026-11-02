@@ -29,3 +29,10 @@ i was born in Kaliningrad
   <img src="figma.svg" alt="figma" width="40" height="40"/>
   <img src="blender.svg" alt="blender" width="40" height="40"/>
 </p>
+
+### IDEs & Software:
+<p align="left">
+  <img src="visualstudio.svg" alt="visualstudio" width="40" height="40"/>
+  <img src="vscode.svg" alt="vscode" width="40" height="40"/>
+  <img src="clion.svg" alt="clion" width="40" height="40"/>
+</p>
