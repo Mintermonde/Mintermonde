@@ -38,9 +38,12 @@ i was born in Kaliningrad
   <img src="clion.svg" alt="clion" width="40" height="40"/>
 </p>
 
-<p align="center">
-  <img src="assets/github-stats.svg" alt="Andrew's GitHub stats">
-</p>
+| Metric | Status / Activity |
+| :--- | :--- |
+| **Core Ecosystem** | C#, .NET, Rust development |
+| **Current Focus** | Building scalable applications & tools |
+| **Repositories** | Public projects and open-source contributions |
+| **Fun Fact** | Combining engineering precision with a strong eye for design |
 
 <p align="center">
   <picture>
