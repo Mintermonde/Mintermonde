@@ -11,7 +11,7 @@ i was born in Kaliningrad
 ## Tech Stack:
 
 ### Development:
-<p align="left">
+<p align="center">
   <img src="csharp.svg" alt="csharp" width="40" height="40"/>
   <img src="dotnet.svg" alt="dotnet" width="40" height="40"/>
   <img src="python.svg" alt="python" width="40" height="40"/>
@@ -24,7 +24,7 @@ i was born in Kaliningrad
 </p>
 
 ### Design & Graphics:
-<p align="left">
+<p align="center">
   <img src="photoshop.svg" alt="photoshop" width="40" height="40"/>
   <img src="illustrator.svg" alt="illustrator" width="40" height="40"/>
   <img src="figma.svg" alt="figma" width="40" height="40"/>
@@ -32,7 +32,7 @@ i was born in Kaliningrad
 </p>
 
 ### IDEs & Software:
-<p align="left">
+<p align="center">
   <img src="visualstudio.svg" alt="visualstudio" width="40" height="40"/>
   <img src="vscode.svg" alt="vscode" width="40" height="40"/>
   <img src="clion.svg" alt="clion" width="40" height="40"/>
