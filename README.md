@@ -42,7 +42,7 @@ I was born in Kaliningrad
 
 <div align="center">
 
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Mintermonde&theme=dark&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Mintermonde&theme=github_dark&show_icons=true&hide_border=true&count_private=true&locale=ru">
 
 </div>
 
