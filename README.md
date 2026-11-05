@@ -1,6 +1,6 @@
 # Hi, I'm Andrew
 
-Experienced C# and Web Developer, beginner Rust developer
+Experienced C#, Python and Web Developer, beginner Rust developer
 
 My goal is to make something fun and goofy
 
