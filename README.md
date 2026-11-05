@@ -4,7 +4,7 @@ Experienced C# and Web Developer, beginner Rust developer
 
 My goal is to make something fun and goofy
 
-I was born in Kaliningrad
+I was born in Yuzhno-Sakhalinsk, now live in Kaliningrad
 
 ## Creative Background:
 - **Design:** Long-term professional experience in the design industry.
